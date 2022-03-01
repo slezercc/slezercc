@@ -1,8 +1,7 @@
-
-    <p align="center">
+<p align="center">
   <samp>
     wnetMC:
-    <a><a href="https://wnetmc.github.io/">Website</a></a>
+    <b><a href="https://wnetmc.github.io">Website</a></b>
+    <b><a href="https://discord.gg/fVYJauND4A">Discord Server</a></b>
 </samp><br>
 </p>
-<span style="color: #f2cf4a; font-family: Babas; src: url('8bitOperatorPlus8-Bold.ttf'); font-size: 2em;">INSPIRATION DAY</span>
