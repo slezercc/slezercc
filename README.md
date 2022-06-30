@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     wnetMC:
-    <b><a href="https://wnetmc.github.io">Website</a></b>
+    <b><a href="https://wnetmc.github.io">Website</a></b> \n
     Shop:
     <b><a href="https://wnet.sellix.io/">Shop</a></b>
 </samp><br>
