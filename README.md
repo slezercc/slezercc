@@ -11,7 +11,7 @@ Languages  :  PHP, Python, Java, Batch, Bash, Perl
   Discord  :  wnet#0001
   Website  :  https://wnetmc.github.io
      Shop  :  https://wnet.sellix.io
-  GPG Key  :   https://github.com/wnetmc.gpg
+  GPG Key  :  https://github.com/wnetmc.gpg
 ```
 
 ![Picture1](https://i.ibb.co/ccwMc7K/bg-2.png)
