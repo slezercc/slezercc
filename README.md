@@ -7,7 +7,7 @@
 
 ```python
        OS  :  Windows 10, Kali Linux, Raspberry Pi OS.
-Languages  :  PHP, Python, Java, Batch, Bash
+Languages  :  PHP, Python, Java, Batch, Bash, Perl
   Discord  :  wnet#0001
   Website  :  https://wnetmc.github.io
      Shop  :  https://wnet.sellix.io
