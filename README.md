@@ -8,7 +8,7 @@
 ```python
        OS  :  Windows 10, Kali Linux, Raspberry Pi OS.
 Languages  :  PHP, Python, Java, Batch, Bash, Perl
-  Discord  :  [discord.gg/Kffw2crmZA](https://discord.gg/Kffw2crmZA)
+  Discord  :  https://discord.gg/Kffw2crmZA
   Website  :  https://wnetmc.github.io
   GPG Key  :  https://github.com/wnetmc.gpg
      Shop  :  https://wnet.sellix.io
