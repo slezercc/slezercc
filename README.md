@@ -6,12 +6,11 @@
 </p>
 
 ```python
-       OS  :  Windows 10, Kali Linux, Raspberry Pi OS.
-Languages  :  PHP, Python, Java, Batch, Bash, Perl
-  Discord  :  https://discord.gg/Kffw2crmZA
-  Website  :  https://wnetmc.github.io
+Languages  :  PHP, MySQL Python, Batch, Bash, HTML, CSS, JavaScript
+  Discord  :  https://discord.gg/rUxpnFZe7y
+  Website  :  https://wnet.studio
+Jupiter C2 :  https://jupiterservices.me/
   GPG Key  :  https://github.com/wnetmc.gpg
-     Shop  :  https://wnet.sellix.io
 ```
 
 ![Picture1](https://i.ibb.co/ccwMc7K/bg-2.png)
