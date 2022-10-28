@@ -6,13 +6,12 @@
 </p>
 
 ```python
-Languages  :  PHP, MySQL Python, Batch, Bash, HTML, CSS, JavaScript
+Languages  :  PHP, MySQL, Python, Batch, Bash, HTML, CSS
   Discord  :  https://discord.gg/rUxpnFZe7y
   Website  :  https://wnet.studio
-Jupiter C2 :  https://jupiterservices.me/
   GPG Key  :  https://github.com/wnetmc.gpg
 ```
 
-![Picture1](https://i.ibb.co/ccwMc7K/bg-2.png)
+![Picture1](https://i.ibb.co/Km6kDJV/background-1.gif)
 
 </p>
