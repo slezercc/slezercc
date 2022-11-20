@@ -4,12 +4,19 @@
 </a>
 </p>
 
+## Information
 ```python
 Languages  :  PHP, MySQL, Python, Batch, Bash, HTML, CSS
-  Discord  :  https://discord.gg/rUxpnFZe7y
-  Website  :  https://wnet.studio
-  E-Mail   :  wnet@ddosed.org
-  GPG Key  :  https://github.com/wnetmc.gpg
+ Discord   : https://discord.gg/rUxpnFZe7y
+ Discord # : wnet#0111
+ Website   : https://wnet.studio
+ E-Mail    : wnet@ddosed.org
+ GPG Key   : https://github.com/wnetmc.gpg
+```
+## Crypto
+```python
+  Bitcoin  :
+     ro
 ```
 
 ![Picture1](https://i.ibb.co/WyQVmTq/github-baggy.gif)
