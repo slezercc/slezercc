@@ -13,7 +13,7 @@ Languages  :  PHP, MySQL, Python, Batch, Bash, HTML, CSS
  E-Mail    : wnet@ddosed.org
  GPG Key   : https://github.com/wnetmc.gpg
 ```
-## Crypto
+## Crypto Addresses
 ```
  Bitcoin   : 1LdG8Frnm5tQQPwe1BACDNtL2Ffoq5saCh
  Monero    : 47ZMkmFNr76BQSL2GGpDjFCA5EPqBGKXmWUvR6tpfqVsNqcBby9WDNreHVgfmrTc9RauoSn3LfbFzXuChpwv3qDm4UxKoWb
