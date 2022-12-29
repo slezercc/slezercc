@@ -6,7 +6,7 @@
 
 ## Information
 ```
- Languages :  PHP, MySQL, Python, Batch, Bash, HTML, CSS
+ Languages : PHP, MySQL, Python, Batch, Bash, HTML, CSS
  Server    : https://discord.gg/rUxpnFZe7y
  Discord   : wnet#0111
  Website   : https://wnet.studio
