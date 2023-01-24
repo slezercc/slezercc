@@ -7,18 +7,10 @@
 ## Information
 ```
  Languages : PHP, MySQL, Python, Batch, Bash, HTML, CSS
- Server    : https://discord.gg/rUxpnFZe7y
  Discord   : wnet#0111
  Website   : https://wnet.studio
  E-Mail    : wnet@ddosed.org
  GPG Key   : https://github.com/wnetmc.gpg
-```
-## Crypto Addresses
-```
- Bitcoin   : 1LdG8Frnm5tQQPwe1BACDNtL2Ffoq5saCh
- Monero    : 47ZMkmFNr76BQSL2GGpDjFCA5EPqBGKXmWUvR6tpfqVsNqcBby9WDNreHVgfmrTc9RauoSn3LfbFzXuChpwv3qDm4UxKoWb
- Litecoin  : LZa7RcVAxhdR6NciVfug3XLLYabYQJ13rF
- Ethereum  : 0x0aAeaa7409a50157098BffAAa43B16a6572adC6F
 ```
 
 ![Picture1](https://i.ibb.co/WyQVmTq/github-baggy.gif)
