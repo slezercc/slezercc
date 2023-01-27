@@ -12,7 +12,4 @@
  E-Mail    : wnet@ddosed.org
  GPG Key   : https://github.com/wnetmc.gpg
 ```
-
-![Picture1](https://i.ibb.co/WyQVmTq/github-baggy.gif)
-
 </p>
