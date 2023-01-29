@@ -6,7 +6,7 @@
 
 ## Information
 ```
- Languages : PHP, MySQL, Python, Batch, Bash, HTML, CSS
+ Languages : PHP, MySQL, Python, Batch, Bash.
  Discord   : wnet#0111
  Website   : https://wnet.studio
  E-Mail    : wnet@ddosed.org
