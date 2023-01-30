@@ -7,9 +7,8 @@
 ## Information
 ```
  Languages : PHP, MySQL, Python, Batch, Bash.
- Discord   : wnet#0111
+ Telegram  : @wnetMC
  Website   : https://wnet.studio
- E-Mail    : wnet@ddosed.org
  GPG Key   : https://github.com/wnetmc.gpg
 ```
 </p>
