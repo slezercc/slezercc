@@ -1,14 +1,13 @@
-<p align="center"><img src="https://gpvc.arturio.dev/wnetMC" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/wnetMC" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/wnetMC" alt="Profile Forks">
+<p align="center"><img src="https://gpvc.arturio.dev/slezerr" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/slezerr" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/slezerr" alt="Profile Forks">
 </a>
 </p>
 
 ## Information
 ```
- Languages : PHP, MySQL, Python, Batch, Bash.
- Telegram  : @wnetMC
- Website   : https://wnet.studio
- GPG Key   : https://github.com/wnetmc.gpg
+ Languages : PHP, MySQL, Python, Batch, PowerShell, Bash.
+ Telegram  : @slezerr
+ GPG Key   : https://github.com/slezerr.gpg
 ```
 </p>
