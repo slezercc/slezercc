@@ -6,6 +6,7 @@
 
 ## Information
 ```
+ Interests : Cybersecurity, Malware, Programming, Blockchain.
  Languages : PHP, MySQL, Python, Batch, PowerShell, Bash.
  Telegram  : @slezerr
  GPG Key   : https://github.com/slezerr.gpg
