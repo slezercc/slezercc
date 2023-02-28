@@ -9,5 +9,6 @@
  Languages : PHP, MySQL, Python, Batch, PowerShell, Bash.
  Telegram  : @slezerr
  GPG Key   : https://github.com/slezerr.gpg
+ Bitcoin   : bc1qde7qn0tuqy3y8ywvltpluryrs8mr05x4n3d7l9
 ```
 </p>
