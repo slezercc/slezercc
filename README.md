@@ -7,6 +7,7 @@
 ## Information
 ```
  Website   : https://slezer.cc/
+ E-Mail    : contact@slezer.cc
  Languages : PHP, MySQL, Python, Batch, PowerShell, Bash, HTML & CSS.
  Telegram  : @slezerr
  GPG Key   : https://github.com/slezerr.gpg
