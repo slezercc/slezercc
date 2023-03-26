@@ -9,7 +9,7 @@
  Website   : https://slezer.cc/
  E-Mail    : contact@slezer.cc
  Languages : PHP, MySQL, Python, Batch, PowerShell, Bash, HTML & CSS.
- Telegram  : @slezerr
+ Telegram  : https://t.me/slezercc/
  GPG Key   : https://github.com/slezerr.gpg
  Bitcoin   : bc1qde7qn0tuqy3y8ywvltpluryrs8mr05x4n3d7l9
 ```
