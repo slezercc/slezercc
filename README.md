@@ -11,6 +11,5 @@
  E-Mail    : contact@slezer.cc
  Languages : PHP, MySQL, Python, Batchfile, PowerShell, Bash, HTML & CSS.
  GPG Key   : https://slezer.cc/pgp/
- Bitcoin   : bc1qde7qn0tuqy3y8ywvltpluryrs8mr05x4n3d7l9
 ```
 </p>
