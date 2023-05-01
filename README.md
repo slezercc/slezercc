@@ -6,10 +6,9 @@
 
 ## Information
 ```
- Website   : https://slezer.cc/
- Telegram  : @slezercc
- E-Mail    : contact@slezer.cc
- Languages : PHP, MySQL, Python, Batchfile, PowerShell, Bash, HTML & CSS.
- GPG Key   : https://slezer.cc/pgp/
+ Website    : https://slezer.cc/
+ Telegram   : @slezercc
+ Languages  : PHP, MySQL, Python, Batchfile, PowerShell, Bash, HTML & CSS.
+ HackForums : https://hackforums.net/member.php?action=profile&uid=5262919
 ```
 </p>
