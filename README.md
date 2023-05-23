@@ -5,10 +5,8 @@
 </p>
 
 ## Information
-```
- Website    : https://slezer.cc/
- Telegram   : @slezercc
- Languages  : PHP, MySQL, Python, Batchfile, PowerShell, Bash, HTML & CSS.
- HackForums : https://hackforums.net/member.php?action=profile&uid=5262919
-```
+ Website    : [https://slezer.cc/](https://slezer.cc/)
+ Telegram   : [https://t.me/slezercc/](https://t.me/slezercc/)
+ XMPP       : slezer@slezer.cc
+ HackForums : [https://hackforums.net/member.php?action=profile&uid=5262919](https://hackforums.net/member.php?action=profile&uid=5262919)
 </p>
